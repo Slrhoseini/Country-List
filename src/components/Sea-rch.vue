@@ -15,7 +15,4 @@
   padding: 0 1.5rem;
   max-width: 500px;
 }
-/* .searchDiv {
-  margin-top: 3rem;
-} */
 </style>
